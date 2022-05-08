@@ -1,5 +1,7 @@
 ## Welcome to ...
 
+<link rel="shortcut icon" type="image/x-icon" href="_includes/favicon.ico">
+
 ---
 >[1989](pages/page1989.md)
 >[2020](pages/page2020.md)

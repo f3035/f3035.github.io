@@ -1,6 +1,6 @@
 ## Welcome to ...
 
-<link rel="shortcut icon" type="image/x-icon" href="_includes/favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 ---
 >[1989](pages/page1989.md)

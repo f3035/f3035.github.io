@@ -3,8 +3,11 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 ---
->- [1989 [1]](pages/page1989.md)
-- [2014 [1]](pages/page2014.md)
-- [2020 [1]](pages/page2020.md)
-- [2021 [0]](pages/page2021.md)
-- [2022 [2]](pages/page2022.md)
+
+|Year|Books|Games|
+|:---:|:---:|:---:|
+|**1989**|**[0](pg/b/b_1989.md)**|**[1](pg/g/g_1989.md)**|
+|**2014**|**[0](pg/b/b_2014.md)**|**[1](pg/g/g_2014.md)**|
+|**2020**|**[0](pg/b/b_2020.md)**|**[1](pg/g/g_2020.md)**|
+|**2021**|**[0](pg/b/b_2021.md)**|**[0](pg/g/g_2021.md)**|
+|**2022**|**[0](pg/b/b_2022.md)**|**[2](pg/g/g_2022.md)**|
